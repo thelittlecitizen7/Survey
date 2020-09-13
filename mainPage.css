@@ -1,0 +1,39 @@
+body
+{
+    background-color:  #A9D7D1;
+}
+
+#SurveyPageTitle
+{
+    text-align: center;
+}
+
+#SurveyPage
+{
+    background-color: white;
+    margin: auto;
+    width: 800px;
+    height: 700px;
+}
+
+#MainPageTitle
+{
+    text-align: center;
+}
+
+.description
+{
+    text-align: right;
+    width: 300px;
+}
+
+#Survey
+{
+    margin: auto;
+}
+
+#Survey td
+{
+    height: 50px;
+}
+
